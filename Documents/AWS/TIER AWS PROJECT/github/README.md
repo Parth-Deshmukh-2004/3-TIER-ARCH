@@ -184,7 +184,3 @@ Delete in this order:
 - Add target-tracking scaling policies (currently min = max = 2).
 - Turn on ELB health checks in the Auto Scaling Groups.
 - Provision everything with Terraform or CloudFormation.
-
-## Credits
-
-Project guide and source code by [Subodh Kumar](https://github.com/SubodhK143). Update this section if you adapt or extend the project.
