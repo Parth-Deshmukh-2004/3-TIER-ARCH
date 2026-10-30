@@ -2,8 +2,8 @@
 
 > A highly available, highly secured, highly scalable, and fault-tolerant three-tier web application deployed on Amazon Web Services.
 
-**Author:** Subodh Kumar  
-**GitHub:** [github.com--> Parth Deshmukh]([https://github.com/SubodhK143](https://github.com/Parth-Deshmukh-2004))  
+**Author:** Parth Deshmukh  
+**GitHub:** [github.com--> Parth Deshmukh](https://github.com/Parth-Deshmukh-2004)  
 **LinkedIn:** [linkedin.com--> Parth Deshmukh](https://www.linkedin.com/in/parth-deshmukh-9563b326a/)  
 **Source Code:** [Three_Tire_App_On_AWS](https://github.com/Subodhk143/Three_Tier_App_On_AWS.git)
 
